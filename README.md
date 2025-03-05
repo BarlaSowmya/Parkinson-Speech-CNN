@@ -17,19 +17,6 @@ This project aims to detect Parkinson's Disease (PD) using speech data. The audi
    - **Jupyter Notebook (`sowmya_trial.ipynb`)** contains the CNN training code.  
    - CNN is trained on Mel spectrograms to classify Healthy vs. Parkinson’s patients.
 
-## 📂 Repository Structure
-```
-/Parkinsons-Speech-CNN  
-│── /data (Placeholder, dataset not included due to privacy)  
-│── /models (For saved trained models, if applicable)  
-│── /notebooks  
-│   │── sowmya_trial.ipynb  # CNN training notebook  
-│── /scripts  
-│   │── segment.m  # Speech segmentation (MATLAB)  
-│   │── melspectrograms.m  # Convert speech to Mel spectrograms (MATLAB)  
-│── README.md  # Project documentation  
-│── requirements.txt  # Python dependencies  
-```
 
 ## 🚀 Installation & Usage
 ### **1. Clone the Repository**
