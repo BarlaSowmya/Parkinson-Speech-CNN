@@ -21,7 +21,7 @@ This project aims to detect Parkinson's Disease (PD) using speech data. The audi
 ## 🚀 Installation & Usage
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Parkinsons-Speech-CNN.git
+git clone https://github.com/sowmya/Parkinson-Speech-CNN.git
 cd Parkinsons-Speech-CNN
 ```
 ### **2. Install Dependencies**
