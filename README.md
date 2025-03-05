@@ -7,6 +7,7 @@ Dataset Name: Italian Parkinson’s Dataset (Provided by Guide)
 Availability: The dataset is private and not included in this repository. If needed, you can use a publicly available Parkinson’s speech dataset.
 
 Workflow:
+
 1.Speech Processing (MATLAB):
    - segment.m → Detects Vowel Onset Points (VOP) using LP residual and segments speech into ~450ms windows.  
    - melspectrograms.m→ Converts segmented speech into Mel spectrograms.
