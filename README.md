@@ -3,9 +3,8 @@ Parkinson's Disease Detection Using Speech & CNN
 Project Overview:
 This project aims to detect Parkinson's Disease (PD) using speech data. The audio files undergo preprocessing, where vowel onset points (VOPs) are detected, and the segmented speech is converted into Mel spectrograms. A **Convolutional Neural Network (CNN)** is then trained on these spectrograms to classify healthy and Parkinson's patients.
 
-Dataset:
-Dataset Name:Italian Parkinson’s Dataset (Provided by Guide)  
-Availability:The dataset is private and not included in this repository. If needed, you can use a publicly available Parkinson’s speech dataset.
+Dataset Name: Italian Parkinson’s Dataset (Provided by Guide)  
+Availability: The dataset is private and not included in this repository. If needed, you can use a publicly available Parkinson’s speech dataset.
 
 Workflow:
 1.Speech Processing (MATLAB):
